@@ -15,4 +15,4 @@ Through this project, I practiced responsive design techniques, page layouts, sp
 [Live Demo](https://mohamad-aboeisa.github.io/Quran-Landing-Page)
 
 ## Connect With Me
-[LinkedIn]([YOUR_LINKEDIN_LINK_HERE](https://www.linkedin.com/in/mohamad-osama-aboeisa))
+[LinkedIn](https://www.linkedin.com/in/mohamad-osama-aboeisa)
